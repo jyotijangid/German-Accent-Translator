@@ -63,5 +63,6 @@ h1 {
     height: 10rem;
     display: block;
     margin: auto;
-    margin: 1rem 1rem;
+    margin-top: 1rem ;
+    margin-bottom: 2rem;
 }
